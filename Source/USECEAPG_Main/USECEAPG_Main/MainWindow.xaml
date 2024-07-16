@@ -1,0 +1,23 @@
+﻿<Window x:Class="USECEAPG_Main.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:USECEAPG_Main"
+        mc:Ignorable="d"
+        Title="USE Combat Extendd Patch Generator" Height="450" Width="800">
+    <Grid x:Name="_mainGrid_Grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="600*"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="70*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="80*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="_ldPresetSetting_Btn" Grid.Column="1" Content="Preset" Margin="3,3,3,3" Click="_ldPresetSetting_Btn_Click"/>
+        <Button x:Name="_ldModFolder_Btn" Grid.Column="2" Content="Load Mod" Margin="3,3,3,3" Click="_ldPresetSetting_Btn_Click"/>
+
+    </Grid>
+</Window>
