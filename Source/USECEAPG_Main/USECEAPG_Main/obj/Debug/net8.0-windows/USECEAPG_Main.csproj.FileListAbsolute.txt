@@ -21,3 +21,4 @@ C:\Users\USER\# Library\Programming\USECombatExtendedPatcherUtility\Source\USECE
 C:\Users\USER\# Library\Programming\USECombatExtendedPatcherUtility\Source\USECEAPG_Main\USECEAPG_Main\obj\Debug\net8.0-windows\USECEAPG_Main.pdb
 C:\Users\USER\# Library\Programming\USECombatExtendedPatcherUtility\Source\USECEAPG_Main\USECEAPG_Main\obj\Debug\net8.0-windows\USECEAPG_Main.genruntimeconfig.cache
 C:\Users\USER\# Library\Programming\USECombatExtendedPatcherUtility\Source\USECEAPG_Main\USECEAPG_Main\obj\Debug\net8.0-windows\ref\USECEAPG_Main.dll
+C:\Users\USER\# Library\Programming\USECombatExtendedPatcherUtility\Source\USECEAPG_Main\USECEAPG_Main\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

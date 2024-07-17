@@ -35,7 +35,7 @@
                     <RowDefinition Height="32"/>
                 </Grid.RowDefinitions>
                 <Label x:Name="_defName_Lbl" Content="defName" HorizontalAlignment="Center" Margin="5,2,5,2" VerticalAlignment="Center" FontSize="10" FontWeight="Bold"/>
-                <TextBox x:Name="_defNameActual_TB" HorizontalAlignment="Left" Margin="5,2,5,2" TextWrapping="Wrap" Text="defName" VerticalAlignment="Center" Width="120" Grid.Column="1" IsReadOnlyCaretVisible="True"/>
+                <TextBox x:Name="_defNameActual_TB" Margin="5,7,5,7" TextWrapping="Wrap" Text="defName" Grid.Column="1" IsReadOnlyCaretVisible="True"/>
             </Grid>
         </Grid>
 

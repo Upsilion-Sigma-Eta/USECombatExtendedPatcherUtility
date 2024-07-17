@@ -10,7 +10,7 @@ namespace USECEAPG_Main.Logic
     {
         public string Label { get; set; }
         public List<string> Capacities { get; set; }
-        public int Power { get; set; }
-        public int CooldownTime { get; set; }
+        public double Power { get; set; }
+        public double CooldownTime { get; set; }
     }
 }

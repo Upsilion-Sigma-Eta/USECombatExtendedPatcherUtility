@@ -8,12 +8,12 @@ namespace USECEAPG_Main.Logic
 {
     public class VanillaCompatStatBases
     {
-        public int WorkToMake { get; set; }
-        public int Mass { get; set; }
+        public double WorkToMake { get; set; }
+        public double Mass { get; set; }
         public double AccuracyTouch { get; set; }
         public double AccuracyShort { get; set; }
         public double AccuracyMedium { get; set; }
         public double AccuracyLong { get; set; }
-        public int RangedWeaponCooldown { get; set; }
+        public double RangedWeaponCooldown { get; set; }
     }
 }

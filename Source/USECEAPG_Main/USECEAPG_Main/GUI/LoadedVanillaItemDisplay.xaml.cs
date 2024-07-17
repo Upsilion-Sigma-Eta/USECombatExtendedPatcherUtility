@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using USECEAPG_Main.Logic;
 
 namespace USECEAPG_Main.GUI
 {
@@ -20,9 +21,25 @@ namespace USECEAPG_Main.GUI
     /// </summary>
     public partial class LoadedVanillaItemDisplay : UserControl
     {
+        VanillaCompatWeapon _vanillaWeaponData;
+
         public LoadedVanillaItemDisplay()
         {
             InitializeComponent();
+        }
+
+        public VanillaCompatWeapon VanillaWeapon
+        {
+            get
+            {
+                return _vanillaWeaponData;
+            }
+            set
+            {
+                _vanillaWeaponData = value;
+
+                _defNameActual_TB.Text = _vanillaWeaponData.DefName;
+            }
         }
     }
 }

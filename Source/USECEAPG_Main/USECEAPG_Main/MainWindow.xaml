@@ -1,9 +1,10 @@
-﻿<Window x:Class="USECEAPG_Main.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:USECEAPG_Main"
+        xmlns:GUI="clr-namespace:USECEAPG_Main.GUI" x:Class="USECEAPG_Main.MainWindow"
         mc:Ignorable="d"
         Title="USE Combat Extendd Patch Generator" Height="450" Width="800">
     <Grid x:Name="_mainGrid_Grid">
@@ -17,7 +18,10 @@
             <RowDefinition Height="80*"/>
         </Grid.RowDefinitions>
         <Button x:Name="_ldPresetSetting_Btn" Grid.Column="1" Content="Preset" Margin="3,3,3,3" Click="_ldPresetSetting_Btn_Click"/>
-        <Button x:Name="_ldModFolder_Btn" Grid.Column="2" Content="Load Mod" Margin="3,3,3,3" Click="_ldPresetSetting_Btn_Click"/>
+        <Button x:Name="_ldModFolder_Btn" Grid.Column="2" Content="Load Mod" Margin="3,3,3,3" Click="_ldModFolder_Btn_Click"/>
+
+        <GUI:LoadedVanillaItemDisplay x:Name="_weaponDataPanel_gui" Margin="5,5,5,5" Grid.Row="1"/>
+        <ListBox x:Name="_weaponsList_LB" Grid.Column="1" Grid.Row="1" d:ItemsSource="{d:SampleData ItemCount=5}" Grid.ColumnSpan="2" Margin="3,3,3,3" SelectionChanged="_weaponsList_LB_SelectionChanged"/>
 
     </Grid>
 </Window>

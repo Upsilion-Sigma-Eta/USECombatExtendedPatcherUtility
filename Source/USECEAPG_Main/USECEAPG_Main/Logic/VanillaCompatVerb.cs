@@ -11,9 +11,11 @@ namespace USECEAPG_Main.Logic
     {
         public string VerbClassName { get; set; }
         public bool HasStandardCommand { get; set; }
-        public string DefaultProjectile { get; set; }
+
+        public VanillaCompatProjectile Projectile { get; set; }
+        public string DefaultProjectileDefName { get; set; }
         public double WarmupTime { get; set; }
         public double Range { get; set; }
-        public int MuzzleFlashScale { get; set; }
+        public double MuzzleFlashScale { get; set; }
     }
 }
