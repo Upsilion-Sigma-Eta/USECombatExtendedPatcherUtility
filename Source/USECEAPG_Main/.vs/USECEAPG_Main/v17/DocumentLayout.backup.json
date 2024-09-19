@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillaxmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillaxmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\xmlfilehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\xmlfilehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillacompatweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillacompatweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillacompattool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillacompattool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillacompatverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillacompatverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillacompatprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillacompatprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillacompatgraphicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillacompatgraphicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\vanillacompatstatbases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\vanillacompatstatbases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\gui\\loadedvanillaitemdisplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\gui\\loadedvanillaitemdisplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\gui\\loadedvanillaitemdisplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\gui\\loadedvanillaitemdisplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\logic\\listextendedmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\logic\\listextendedmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|c:\\users\\user\\# library\\programming\\usecombatextendedpatcherutility\\source\\useceapg_main\\useceapg_main\\gui\\converter\\heightmultiplierconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84BA352-46B7-4DB6-BCA1-CE36395ED912}|USECEAPG_Main\\USECEAPG_Main.csproj|solutionrelative:useceapg_main\\gui\\converter\\heightmultiplierconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VanillaXMLLoader.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaXMLLoader.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaXMLLoader.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaXMLLoader.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaXMLLoader.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwJsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:10:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFileHandling.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\XMLFileHandling.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\XMLFileHandling.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\XMLFileHandling.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\XMLFileHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:01:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VanillaCompatWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatWeapon.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaCompatWeapon.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatWeapon.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaCompatWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:53:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VanillaCompatTool.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatTool.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaCompatTool.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatTool.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaCompatTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:01:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VanillaCompatStatBases.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatStatBases.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaCompatStatBases.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatStatBases.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaCompatStatBases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:58:05.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\Manager.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\Manager.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\Manager.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:03:37.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VanillaCompatProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatProjectile.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaCompatProjectile.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatProjectile.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaCompatProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:05:50.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VanillaCompatGraphicData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatGraphicData.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaCompatGraphicData.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatGraphicData.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaCompatGraphicData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:09:05.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VanillaCompatVerb.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatVerb.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\VanillaCompatVerb.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\VanillaCompatVerb.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\VanillaCompatVerb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:59:41.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "USECEAPG_Main\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADgvz4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:43:26.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadedVanillaItemDisplay.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml.cs",
+              "RelativeToolTip": "USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:49:08.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\MainWindow.xaml",
+              "RelativeToolTip": "USECEAPG_Main\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T11:43:28.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\AssemblyInfo.cs",
+              "RelativeToolTip": "USECEAPG_Main\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:43:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoadedVanillaItemDisplay.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml",
+              "RelativeToolTip": "USECEAPG_Main\\GUI\\LoadedVanillaItemDisplay.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T12:47:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListExtendedMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\ListExtendedMethods.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\Logic\\ListExtendedMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\Logic\\ListExtendedMethods.cs",
+              "RelativeToolTip": "USECEAPG_Main\\Logic\\ListExtendedMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:13:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\App.xaml",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\App.xaml",
+              "RelativeToolTip": "USECEAPG_Main\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T12:08:27.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HeightMultiplierConverter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\GUI\\Converter\\HeightMultiplierConverter.cs",
+              "RelativeDocumentMoniker": "USECEAPG_Main\\GUI\\Converter\\HeightMultiplierConverter.cs",
+              "ToolTip": "C:\\Users\\USER\\# Library\\Programming\\USECombatExtendedPatcherUtility\\Source\\USECEAPG_Main\\USECEAPG_Main\\GUI\\Converter\\HeightMultiplierConverter.cs",
+              "RelativeToolTip": "USECEAPG_Main\\GUI\\Converter\\HeightMultiplierConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:03:52.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
