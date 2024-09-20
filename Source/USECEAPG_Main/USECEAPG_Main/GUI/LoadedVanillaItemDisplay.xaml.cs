@@ -39,6 +39,12 @@ namespace USECEAPG_Main.GUI
                 _vanillaWeaponData = value;
 
                 _defNameActual_TB.Text = _vanillaWeaponData.DefName;
+                _label_TB.Text = _vanillaWeaponData.Label;
+                
+                for (int i = 0; i < _vanillaWeaponData.Verbs.Count; ++i)
+                {
+                    _verbList_LB.Items.Add(_vanillaWeaponData.Verbs[i].VerbClassName);
+                }
             }
         }
     }
