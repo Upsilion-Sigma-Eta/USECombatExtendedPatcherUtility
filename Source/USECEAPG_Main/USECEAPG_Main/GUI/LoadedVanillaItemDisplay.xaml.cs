@@ -40,12 +40,18 @@ namespace USECEAPG_Main.GUI
 
                 _defNameActual_TB.Text = _vanillaWeaponData.DefName;
                 _label_TB.Text = _vanillaWeaponData.Label;
-                
-                for (int i = 0; i < _vanillaWeaponData.Verbs.Count; ++i)
-                {
-                    _verbList_LB.Items.Add(_vanillaWeaponData.Verbs[i].VerbClassName);
-                }
             }
+        }
+
+        private void _verbList_LB_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void _editVerbsInfo_Btn_Click(object sender, RoutedEventArgs e)
+        {
+            VanillaVerbEditWIndow display = new VanillaVerbEditWIndow(_vanillaWeaponData);
+            display.Show();
         }
     }
 }

@@ -10,9 +10,15 @@
     <Compile Update="GUI\LoadedVanillaItemDisplay.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="GUI\VanillaVerbEditWIndow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="GUI\LoadedVanillaItemDisplay.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GUI\VanillaVerbEditWIndow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

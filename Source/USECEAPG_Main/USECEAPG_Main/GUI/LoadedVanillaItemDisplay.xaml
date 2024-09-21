@@ -36,14 +36,22 @@
                     <RowDefinition Height="32"/>
                     <RowDefinition Height="32"/>
                     <RowDefinition Height="32"/>
+                    <RowDefinition Height="32"/>
                 </Grid.RowDefinitions>
                 <Label x:Name="_defName_Lbl" Content="defName" HorizontalAlignment="Center" Margin="5,2,5,2" VerticalAlignment="Center" FontSize="10" FontWeight="Bold"/>
                 <TextBox x:Name="_defNameActual_TB" Margin="5,7,5,7" TextWrapping="Wrap" Text="defName" Grid.Column="1" IsReadOnlyCaretVisible="True"/>
                 <Label x:Name="_label_Lbl" Content="label" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10" FontWeight="Bold" Grid.Row="1"/>
                 <Label x:Name="_verbs_Lbl" Content="verbs" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10" FontWeight="Bold" Grid.Row="2"/>
                 <TextBox x:Name="_label_TB" Margin="5,7,5,7" TextWrapping="Wrap" Text="label" Grid.Column="1" IsReadOnlyCaretVisible="True" Grid.Row="1"/>
-                <ListBox x:Name="_verbList_LB" Grid.Column="1" Grid.Row="2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="5,7,5,7"/>
+                <Label x:Name="_projectileInfo_Lbl" Content="projectile" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10" FontWeight="Bold" Grid.Row="3"/>
+                <Button x:Name="_showProjectileInfo_Btn" Content="Edit Projectile Info" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Grid.Column="1" Width="422"/>
+                <Label x:Name="_toolsInfo_Lbl" Content="tools" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10" FontWeight="Bold" Grid.Row="4"/>
+                <Button x:Name="_showToolsInfo_Btn" Content="Edit Tools Info" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" Grid.Column="1" Width="422"/>
+                <Button x:Name="_editVerbsInfo_Btn" Content="Edit Verb Info" HorizontalAlignment="Center" VerticalAlignment="Center" Width="422" Grid.Row="2" Grid.Column="1" Click="_editVerbsInfo_Btn_Click"/>
+                <Label x:Name="_statBasesEdit_Lbl" Content="statBases" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10" FontWeight="Bold" Grid.Row="5"/>
+                <Button x:Name="_editStatBases_Btn" Content="Edit StatBases Info" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" Grid.Column="1" Width="422"/>
             </Grid>
+            <Button x:Name="_showProjectileInfo_Btn복사__C_1" Content="Projectile DefName" HorizontalAlignment="Left" VerticalAlignment="Top" Width="422" Margin="133,102,0,0"/>
         </Grid>
 
     </Grid>

@@ -96,7 +96,11 @@ namespace USECEAPG_Main
 
         private void _weaponsList_LB_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            // TODO : 인덱스가 선택되어 있지 않은 상태에서 다른 폴더의 아이템을 불러왔을 때 처리 로직 추가
+            // 이미 무기들의 정보를 불러 온 상태에서 다른 무기들의 정보를 파일로부터 읽어올 때 에러가 발생하는 문제 해결
+            if (_weaponsList_LB.SelectedIndex == -1)
+            {
+                return;
+            }
             Logic.Manager.Instance.GUI_MainWindow._weaponDataPanel_gui.VanillaWeapon = Logic.Manager.Instance.VanillaWeaponData[_weaponsList_LB.SelectedIndex];
         }
     }
